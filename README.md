@@ -1,6 +1,4 @@
-# NoSQL-Databases
-
-# NoSQL Data Analysis Challenge - Repository Guide
+# NoSQL Data Analysis Challenge
 ## Introduction
 
 Welcome to the NoSQL Data Analysis Challenge! This repository is your starting point for diving into the world of NoSQL databases using MongoDB. It includes two key Jupyter notebooks: 'NoSQL_Setup.ipynb' for database setup and 'NoSQL_analysis.ipynb' for data analysis. These files guide you through the process of importing data from a JSON file, setting up a MongoDB database, and running in-depth analyses. The "Resources" folder contains the essential .json file to import data into MongoDB.
